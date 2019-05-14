@@ -1,0 +1,11 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+    1,   42,  -25,   55,7.94135,60399,Postcentral_R,Right-Cerebral-White-Matter,48% Right_Postcentral_Gyrus; 12% Right_Precentral_Gyrus
+    2,  -36,  -25,   55,-7.94144,19386,Postcentral_L,Left-Cerebral-White-Matter,30% Left_Postcentral_Gyrus; 30% Left_Precentral_Gyrus
+    3,  -15,  -52,  -26,7.94135,10260,no_label,Left-Cerebellum-Cortex,0% no_label
+    4,   18,  -55,  -23,-7.94144, 8964,Cerebelum_6_R,Right-Cerebellum-Cortex,0% no_label
+    5,  -36,  -19,   19,-6.21808, 1215,Insula_L,Unknown,37% Left_Central_Opercular_Cortex; 37% Left_Insular_Cortex; 8% Left_Parietal_Operculum_Cortex
+    6,   -6,  -19,   49,-5.03538, 1215,Cingulate_Mid_L,ctx-lh-paracentral,50% Left_Precentral_Gyrus; 9% Left_Juxtapositional_Lobule_Cortex_(formerly_Supplementary_Motor_Cortex)
+    7,  -30,  -10,   -2,-4.65454,  378,Putamen_L,Left-Putamen,98% Left_Putamen
+    8,  -15,  -55,   16,-3.5724,  351,Precuneus_L,Left-Cerebral-White-Matter,35% Left_Precuneous_Cortex
+    9,  -66,  -25,   31,3.33892,  351,SupraMarginal_L,ctx-lh-supramarginal,42% Left_Supramarginal_Gyrus_anterior_division; 26% Left_Postcentral_Gyrus
+   10,  -21,   41,   46,-3.41921,  162,Frontal_Sup_2_L,Unknown,51% Left_Frontal_Pole; 19% Left_Superior_Frontal_Gyrus
