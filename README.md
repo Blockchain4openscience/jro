@@ -1,5 +1,5 @@
 # jro
-Journal of Research Objects 
+Journal of Research Objects
 
 
 These are examples taken from public GitHub repositories without business purposes.
